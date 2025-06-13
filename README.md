@@ -1,4 +1,4 @@
-# Professional 4WD Rover for Arduino
+# 4WD Rover for Arduino
 #### Author: Bocaletto Luca
 A versatile 4-wheel drive rover with Bluetooth manual control, line-following, obstacle avoidance and tilt safety. Packed with multiple sensors to navigate complex environments.
 
